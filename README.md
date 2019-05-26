@@ -1,1 +1,1 @@
-# Edging_Study_SuperCollider
+# edging_study
